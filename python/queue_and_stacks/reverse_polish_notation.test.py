@@ -1,5 +1,3 @@
-import unittest
-
 from reverse_polish_notation import resolve
 
 def run():
